@@ -62,11 +62,25 @@ The project follows a server-rendered web application architecture, with a local
 
 ## Application Screenshots
 
-Screenshots can be added to this README in the future to demonstrate the interface without publishing the application code.
+## Application Screenshots
 
-**Suggested views:** Dashboard · Reservations Calendar · Reservation Form · Properties & Rooms · Statistics · Settings
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-> Only sanitized screenshots should be shared. Real guest names, telephone numbers, ID/passport images, booking references, and financial or other sensitive business data must be obscured or replaced with sample data.
+### Reservations Calendar
+![Reservations Calendar](screenshots/calendar.png)
+
+### Property Management
+![Property Overview](screenshots/properties.png)
+
+### Client Management
+![Client Overview](screenshots/clients.png)
+
+### Data Handling
+![Import & Export Data](screenshots/import-export.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ---
 
