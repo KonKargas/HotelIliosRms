@@ -115,7 +115,7 @@ There is no public installer, hosted demo, or source-code license offered throug
 ## Author
 
 **Konstantinos Kargas**  
-Software Developer
+Full-Stack Software Engineer
 
 - Website: [kkargas.com](https://kkargas.com)
 - GitHub: [KonKargas](https://github.com/KonKargas)
