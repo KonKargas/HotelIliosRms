@@ -1,10 +1,16 @@
-# Hotel Ilios RMS
+<div align="center">
+  <img src="assets/logo.png" alt="Hotel Ilios RMS logo" width="240">
 
-### Reservation Management System for Hospitality Operations
+  # Hotel Ilios RMS
 
-**Hotel Ilios RMS** is a privately developed reservation and property management application built for the day-to-day operations of a small hospitality business in Paxos, Greece.
+  **Reservation Management System for Hospitality Operations**
 
-The system was designed, deployed, and used in a real hospitality environment. It brings reservations, guest records, accommodation information, pricing, payments, and operational reporting into a single, streamlined interface.
+  A privately developed reservation and property management system designed for real-world hospitality operations in Paxos, Greece.
+
+  **Java 17** · **Spring Boot** · **Thymeleaf** · **SQLite** · **Spring Security** · **Maven**
+
+  [Overview](#project-overview) · [Features](#core-features) · [Technology Stack](#technology-stack) · [Screenshots](#application-screenshots)
+</div>
 
 > **Private commercial-use project:** This repository is a public portfolio showcase. It intentionally contains documentation only. The application source code, database, guest records, internal business configuration, and production assets are not publicly distributed.
 
@@ -48,7 +54,7 @@ The application supports multiple properties and rooms, multi-room reservations,
 
 | Layer | Technologies |
 | --- | --- |
-| Backend | Java, Spring Boot, Spring MVC, Spring Data JPA |
+| Backend | Java 17, Spring Boot, Spring MVC, Spring Data JPA |
 | Security | Spring Security |
 | Frontend | Thymeleaf, HTML5, CSS3, JavaScript |
 | Data storage | SQLite |
@@ -59,8 +65,6 @@ The application supports multiple properties and rooms, multi-room reservations,
 The project follows a server-rendered web application architecture, with a locally hosted interface used through a browser.
 
 ---
-
-## Application Screenshots
 
 ## Application Screenshots
 
