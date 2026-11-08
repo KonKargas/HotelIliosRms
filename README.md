@@ -1,16 +1,28 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Hotel Ilios RMS logo" width="240">
 
-  # Hotel Ilios RMS
+<!-- Add the Hotel Ilios RMS logo to assets/logo.png, then uncomment:
+<img src="assets/logo.png" alt="Hotel Ilios RMS Logo" width="240" />
+-->
 
-  **Reservation Management System for Hospitality Operations**
+# Hotel Ilios RMS
 
-  A privately developed reservation and property management system designed for real-world hospitality operations in Paxos, Greece.
+### Reservation Management System for Hospitality Operations
 
-  **Java 17** · **Spring Boot** · **Thymeleaf** · **SQLite** · **Spring Security** · **Maven**
+**A privately developed, production-used platform for hotel reservations, guests, properties, payments, and operational reporting.**
 
-  [Overview](#project-overview) · [Features](#core-features) · [Technology Stack](#technology-stack) · [Screenshots](#application-screenshots)
+![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Java_Framework-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Frontend-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Build-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![macOS](https://img.shields.io/badge/Packaging-macOS-555555?style=flat-square&logo=apple&logoColor=white)
+
 </div>
+
+**Hotel Ilios RMS** is a privately developed reservation and property management application built for the day-to-day operations of a small hospitality business in Paxos, Greece.
+
+The system was designed, deployed, and used in a real hospitality environment. It brings reservations, guest records, accommodation information, pricing, payments, and operational reporting into a single, streamlined interface.
 
 > **Private commercial-use project:** This repository is a public portfolio showcase. It intentionally contains documentation only. The application source code, database, guest records, internal business configuration, and production assets are not publicly distributed.
 
@@ -54,7 +66,7 @@ The application supports multiple properties and rooms, multi-room reservations,
 
 | Layer | Technologies |
 | --- | --- |
-| Backend | Java 17, Spring Boot, Spring MVC, Spring Data JPA |
+| Backend | Java 17+, Spring Boot, Spring MVC, Spring Data JPA |
 | Security | Spring Security |
 | Frontend | Thymeleaf, HTML5, CSS3, JavaScript |
 | Data storage | SQLite |
@@ -69,21 +81,27 @@ The project follows a server-rendered web application architecture, with a local
 ## Application Screenshots
 
 ### Dashboard
+
 ![Dashboard](screenshots/dashboard.png)
 
 ### Reservations Calendar
+
 ![Reservations Calendar](screenshots/calendar.png)
 
 ### Property Management
+
 ![Property Overview](screenshots/properties.png)
 
 ### Client Management
+
 ![Client Overview](screenshots/clients.png)
 
 ### Data Handling
+
 ![Import & Export Data](screenshots/import-export.png)
 
 ### Settings
+
 ![Settings](screenshots/settings.png)
 
 ---
@@ -103,6 +121,7 @@ The project demonstrates the design and maintenance of an end-to-end Java applic
 This repository is **documentation only**.
 
 **Not included:**
+
 - Application source code or build artifacts
 - SQLite databases or customer records
 - Identity documents, guest photographs, or private uploads
