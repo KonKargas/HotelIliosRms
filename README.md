@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- Add the Hotel Ilios RMS logo to assets/logo.png, then uncomment:
 <img src="assets/logo.png" alt="Hotel Ilios RMS Logo" width="240" />
--->
 
 # Hotel Ilios RMS
 
